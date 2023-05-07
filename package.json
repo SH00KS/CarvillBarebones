@@ -20,7 +20,7 @@
   "homepage": "https://github.com/samteb/vue-2-webpack-4-boilerplate",
   "dependencies": {
     "@babel/polyfill": "~7.2",
-    "@frctl/fractal": "^1.2.0",
+    "@frctl/fractal": "^1.5.15",
     "@swey/fractal-vue-adapter": "swey/fractal-vue-adapter#v0.3.5",
     "fractal": "0.0.3",
     "vue": "~2.6",
